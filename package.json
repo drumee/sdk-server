@@ -1,0 +1,35 @@
+{
+  "name": "@drumee/server-sdk",
+  "version": "1.0.0",
+  "description": "Drumee Server SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drumee/server-sdk.git"
+  },
+  "keywords": [
+    "fullstack",
+    "sdk",
+    "javascript",
+    "filesystem",
+    "drumee",
+    "client-side",
+    "rendering"
+  ],
+  "author": "\"Somanos Sar <somanos@drumee.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/drumee/server-sdk/issues"
+  },
+  "homepage": "https://github.com/drumee/server-sdk#readme",
+  "dependencies": {
+    "@drumee/server-core": "^1.0.4",
+    "@drumee/server-essentials": "^1.0.4"
+  },
+  "devDependencies": {
+    "@drumee/server-dev-tools": "^1.0.14"
+  }
+}
